@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestAppFarbe</string>
+    <string name="title">Dies ist ein Text</string>
+    <string name="yellow">Gelb</string>
+    <string name="red">Rot</string>
+    <string name="exit">Ende</string>
+</resources>
